@@ -1,0 +1,5 @@
+homepageurl: https://assignment1.v.je/index.php
+adminuser: admin@test.com
+adminpass: adminadmin
+nonadminuser: ropa@test.com
+nonadminpassword: 1234qwer
